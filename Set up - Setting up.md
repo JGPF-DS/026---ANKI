@@ -2,7 +2,7 @@
 2023-02-05 domingo
 
 ---
-[[Anki]]
+[[026 - ANKI/Anki]]
 
 
 
