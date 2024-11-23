@@ -5,7 +5,7 @@
 ---
 
 
-[[026 - ANKI/Anki]]
+[[ANKI/Anki]]
 
 ## Verbo
 

@@ -6,7 +6,7 @@ Subtema:
 Tags: #anki 
 ---
 
-[[026 - ANKI/Anki]]
+[[ANKI/Anki]]
 
 
 Each other
